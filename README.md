@@ -134,3 +134,5 @@ If you are interested in joining or discussing the project direction, open an Is
 This project is built openly and collaboratively.
 
 email me at sniffernewsteam@gmail.com or at beaconpulsenova.studios@gmail.com
+
+While this project is MIT licensed, please do not rebrand or misrepresent Hardware OS as your own original project.
